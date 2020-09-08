@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name": "Jaesung Hwang",
+    "occupation": "ReactJS Developer",
+    "description": "Co-founder of Wetrain Corp",
+    "image": "jaesung.png",
+    "bio": "My name is Jaesung Hwang, I'm a Full Stack ReactJS Developer. Currently I'm working at wetrain",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "edhjs@naver.com",
+    "phone": "+82 10 8080 5801",
+    "address": {
+      "street": "Mapo",
+      "city": "Seoul",
+      "state": "South Korea"
+    },
+    "website": "http://padro.tistory.com",
+    "resumedownload": "http://padro.tistory.com",
+    "social": [
+      {
+        "name": "blog",
+        "url": "https://padro.tistory.com/",
+        "className": "fa fa-pagelines"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jaesung_hw92",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/edhjs",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "React.js / Node.js / Flutter",
+    "education": [
+      {
+        "school": "Gyeongsin Highschool",
+        "degree": "General",
+        "graduated": "December 2009",
+        "description": "Graduated"
+      },
+      {
+        "school": "University of Hanyang",
+        "degree": "Bachelor's degree in Computer Science Engineering",
+        "graduated": "January 2016",
+        "description": "Graduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "Wetrain",
+        "title": "Founder Member && React Specialist",
+        "years": "Jan 2019 - Present",
+        "description": "Developing woondoc web service"
+      },
+      {
+        "company": "LG Uplus",
+        "title": "Industrial IoT service manager",
+        "years": "Jan 2016 - Dec 2018",
+        "description": "Building Industrial IoT services in factory facilities"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "60%"
+      },
+      {
+        "name": "Flutter",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Woondoc Website",
+        "category": "Woondoc website built with ReactJS, NodeJS, MySQL, AWS",
+        "image": "woondoc.png",
+        "url": "https://www.woondoc.com"
+      }
+    ]
+  }
+}

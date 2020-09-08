@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name": "황재성",
+    "occupation": "React JS Developer",
+    "description": "운동닥터 스타트업 창업멤버",
+    "image": "jaesung.png",
+    "bio": "꿈많은 개발자 황재성입니다. (주)위트레인에서 PT 트레이너 찾는 플랫폼 '운동닥터'의 개발을 맡고 있습니다",
+    "contactmessage": "문의사항은 언제나 환영입니다",
+    "email": "edhjs@naver.com",
+    "phone": "+82 10 8080 5801",
+    "address": {
+      "street": "마포구",
+      "city": "서울",
+      "state": "대한민국"
+    },
+    "website": "http://padro.tistory.com",
+    "resumedownload": "http://padro.tistory.com",
+    "social": [
+      {
+        "name": "blog",
+        "url": "https://padro.tistory.com/",
+        "className": "fa fa-pagelines"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jaesung_hw92",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/edhjs",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "React.js / Node.js / Flutter",
+    "education": [
+      {
+        "school": "경신고등학교",
+        "degree": "인문계",
+        "graduated": "2009년 12월",
+        "description": "졸업"
+      },
+      {
+        "school": "한양대학교",
+        "degree": "컴퓨터전공 학사",
+        "graduated": "2016년 1월",
+        "description": "졸업"
+      }
+    ],
+    "work": [
+      {
+        "company": "(주)위트레인",
+        "title": "창업멤버 사내이사",
+        "years": "2019년 1월 - 현재",
+        "description": "운동닥터 웹서비스 개발"
+      },
+      {
+        "company": "LG유플러스",
+        "title": "산업 IoT 서비스 매니저",
+        "years": "2016년 1월 - 2018년 12월",
+        "description": "LTE전용망 기반 산업IoT 솔루션 발굴 및 구축"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "60%"
+      },
+      {
+        "name": "Flutter",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "운동닥터 웹페이지",
+        "category": "개발 with ReactJS, NodeJS, MySQL, AWS",
+        "image": "woondoc.png",
+        "url": "https://www.woondoc.com"
+      }
+    ]
+  }
+}
